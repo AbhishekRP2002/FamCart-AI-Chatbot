@@ -18,3 +18,9 @@ In addition to financial advice, the FamCart AI chatbot can also provide an over
 - User-friendly and informative: The chatbot provides an overview of the project and guides new users on how to make the best use of the chatbot.
 
 - Empowerment through financial knowledge: The chatbot aims to empower children/parents with financial knowledge and help them make informed decisions about their finances.
+
+
+*NOTE* : The project is still under development phase and is a part of the main project build under Solve for India Hackathon
+
+
+Main Project Link : [FamCart-Your cashless wallet](https://github.com/AbhishekRP2002/FamCart)
