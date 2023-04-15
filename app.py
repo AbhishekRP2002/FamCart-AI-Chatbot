@@ -4,7 +4,7 @@ import gradio as gr
 import sys
 import os
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"]='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'
 
 def construct_index(directory_path):
     max_input_size = 4096
