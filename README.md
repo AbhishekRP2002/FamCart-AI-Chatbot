@@ -1,14 +1,26 @@
-# LangChain-Streamlit Template
+# FamCart-AI-Chatbot
+FamCart AI chatbot is a knowledge-based domain-specific AI chatbot that aims to provide financial education and help track expenditure habits for individuals
 
-This repo serves as a template for how to deploy a LangChain on Streamlit.
+- The chatbot is designed to be user-friendly and personalized, providing tailored financial advice to users. It can generate customized financial plans and investment strategies based on a user's goals, risk tolerance, and financial situation. The chatbot also has the capability to identify spending patterns of students and offer suggestions for budget optimization by accessing the database of the service through LangChain.
 
-This repo contains an `main.py` file which has a template for a chatbot implementation.
+In addition to financial advice, the FamCart AI chatbot can also provide an overview of the project and guide new users on how to make the best use of the chatbot. The chatbot aims to empower children/parents with financial knowledge and help them make informed decisions about their finances.
 
-## Adding your chain
-To add your chain, you need to change the `load_chain` function in `main.py`.
-Depending on the type of your chain, you may also need to change the inputs/outputs that occur later on.
+## Key Features:
 
-## Deploy on Streamlit
+- Knowledge-based domain-specific AI chatbot: The chatbot is designed to provide financial education and help track expenditure habits for children/parents.
 
-This is easily deployable on the Streamlit platform.
-Note that when setting up your StreamLit app you should make sure to add `OPENAI_API_KEY` as a secret environment variable.
+- Powered by LLM using LangChain: The chatbot leverages LLMs and LangChain, a framework built around LLMs, to generate human-centric natural language responses to input queries.
+
+- Personalized financial advice: The chatbot can generate customized financial plans and investment strategies based on a user's goals, risk tolerance, and financial situation.
+
+- Budget optimization: The chatbot can identify spending patterns of students and offer suggestions for budget optimization by accessing the database of the service through LangChain.
+
+- User-friendly and informative: The chatbot provides an overview of the project and guides new users on how to make the best use of the chatbot.
+
+- Empowerment through financial knowledge: The chatbot aims to empower children/parents with financial knowledge and help them make informed decisions about their finances.
+
+
+*NOTE* : The project is still under development phase and is a part of the main project build under Solve for India Hackathon
+
+
+Main Project Link : [FamCart-Your cashless wallet](https://github.com/AbhishekRP2002/FamCart)
