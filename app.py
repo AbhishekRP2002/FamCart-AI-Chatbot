@@ -45,3 +45,4 @@ iface = gr.Interface(fn=chatbot,
 
 index = construct_index("docs")
 iface.launch(share=True)
+
